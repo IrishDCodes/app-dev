@@ -2,7 +2,7 @@
 My first repository
 # My Favorite Series: *Stranger Things*
 
-![Stranger Things Poster](https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_season_4.jpg)
+![Stranger Things Poster](https://www.europosters.eu/stranger-things/)
 
 ## **Overview**
 **Stranger Things** is a sci-fi horror series set in the 1980s. It follows a group of kids uncovering mysterious events happening in their small town of Hawkins.
